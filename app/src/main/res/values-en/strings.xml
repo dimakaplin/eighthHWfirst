@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="btn_ok">lang</string>
+    <string name="btn_ok_color">color</string>
+    <string name="hello_world">Hello world</string>
+
+    <string-array name="lang">
+        <item>Ру</item>
+        <item>En</item>
+    </string-array>
+    <string-array name="themes">
+        <item>green</item>
+        <item>black</item>
+        <item>blue</item>
+    </string-array>
+</resources>
+
+
